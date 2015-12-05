@@ -47,7 +47,7 @@ hr {
 }
 
 #menu ul li a:hover {
-	background:red;
+	background:purple;
 	color:#000;
 	-webkit-transition-duration:2s;
 }
