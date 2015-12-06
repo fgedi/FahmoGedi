@@ -37,10 +37,10 @@ hr {
 } 
 
 #menu ul li a {
-	color:#FFF;
+	color:#000;
 	text-decoration:none;
 	padding:10px;
-	background:#666;
+	background:#CFF;
 	border-radius:10px;
 	margin-left:30px;
 	-webkit-transition-duration:2s;
@@ -54,7 +54,7 @@ hr {
 
 #menu h1 {
 	float:left;
-	color:#FFF;
+	color:669;
 	line-height:10px;
 	margin-left:30px;
 }
